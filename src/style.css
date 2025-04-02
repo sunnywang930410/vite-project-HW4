@@ -1,0 +1,221 @@
+html{
+    background-color:#EDF2C5 ;
+    width: 1440px;
+    height: 1024px;
+}
+.box{
+    background-color: #EDF2C5;
+}
+
+.header{
+    display:inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 36px;
+    margin-left: 160px;
+    margin-right: 158px;
+    margin-bottom: 10px;
+}
+
+.title{
+    width: 253px;
+    color:#778A50;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    line-height: normal;
+}
+
+.place{
+    width: 661px;
+}
+
+.fb{
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+}
+
+.ig{
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+}
+
+.line{
+    width: 1px;
+    height: 24px;
+    color: #778A50;
+    margin-right: 12px;
+}
+
+.login{
+    color:#778A50;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    margin-right:14px;
+    padding: 4px 8px;
+    border-radius: 3px;
+    border: 1px solid #778A50;
+    background-color: #EDF2C5;
+}
+
+.join{
+    color:#778A50;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    padding: 4px 8px;
+    border-radius: 3px;
+    border: 1px solid #778A50;
+    background-color: #EDF2C5;
+}
+
+.more{
+    display:inline-flex;
+    align-items: end;
+}
+
+.nav{
+    width: 1120px;
+    border-radius: 3px;
+    background-color: #778A50;
+    margin-left: 160px;
+    margin-right: 160px;
+    border-top: 10px;
+    display: inline-flex;
+}
+
+.home{
+    color: #EDF2C5;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%; /* 24px */
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 62px;
+}
+
+.information{
+    display: inline-flex;
+}
+
+.box_main_content{
+    margin-left: 160px;
+    margin-top: 16px;
+    width: 1120px;
+    height: 448px;
+}
+
+.box_vegetable{
+    margin-top: 32px;
+    margin-left: 160px;
+    margin-bottom: 16px;
+    border-radius: 3px;
+    background-color: #778A50;
+    width: 528px;
+    height: 45px;
+}
+
+.vegimg{
+    /* display: inline-flex; */
+    float:left;
+    width: 165px;
+    height: 140px;
+    margin-top: 16px;
+    margin-right: 16px; 
+}
+
+.fix{
+    margin-right: 0;
+}
+
+.box_vegetable_title{
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-bottom: 11px;
+    margin-right: 406px;
+    color: #EDF2C5;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%;
+}
+
+.box_contact_text{
+    height: 45px;
+    width: 528px;
+    height: 45px;
+    margin-top: 32px;
+    margin-left: 64px;
+    border-radius: 3px;
+    background-color: #778A50;
+}
+
+.contact_title{
+    color: #EDF2C5;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 150%;
+    padding: 10px 433px 11px 30px;
+}
+
+.textbox{
+    background-color: #F7FBDA;
+    padding: 16px;
+    margin-top: 16px;
+}
+
+.question{
+    color: #7D7D7D;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
+.Email{
+    color: #7D7D7D;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
+.footer{
+    margin-bottom:0 ;
+    margin-top: 273px;
+    width: 1440px;
+    height: 60px;
+    background-color: #778A50;
+    justify-content: flex-end;
+    border-radius: 3px;
+    justify-content: flex-end;
+}
+
+.footer_text{
+    padding-left: 569px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    padding-right: 558px;
+    color: #EDF2C5;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; 
+}
+
